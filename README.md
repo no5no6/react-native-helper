@@ -51,12 +51,31 @@
 <img src="https://raw.githubusercontent.com/FaridSafi/react-native-gifted-listview/master/Captures/ios_refresh_page_demo.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/FaridSafi/react-native-gifted-listview/master/Captures/android_refresh_page_demo.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 
+11. 弹窗 ([react-native-modal](https://github.com/react-native-community/react-native-modal))<br/>
+<img src="https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/modal.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/mmazzarolo/react-native-modal-datetime-picker/master/extras/datetimepicker-ios.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/mmazzarolo/react-native-animated-modal/master/extras/example-modal.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
+
+12. 弹窗 ([react-native-popup-dialog](https://github.com/jacklam718/react-native-popup-dialog))<br/>
+<img src="https://jacklam718.github.io/react-native-popup-dialog/resources/popup-dialog-scale-animation.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://jacklam718.github.io/react-native-popup-dialog/resources/popup-dialog-slide-animation.gif" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+13. 仪表盘式 slider ([react-native-circular-slider]())
+
+
 ## 动画
-1. [react-native-interactable](https://github.com/wix/react-native-interactable)  滚动、滑动动效 <br/>
+1. 滚动、滑动动效 （[react-native-interactable](https://github.com/wix/react-native-interactable)） <br/>
 <img src="http://i.imgur.com/ErA2GQo.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://i.imgur.com/pH6oB5D.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://i.imgur.com/J5l2Qvq.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://i.imgur.com/dWFYZBG.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
+
+2. 通过此库可以在RN中使用 AE 制作的路径动画 （[lottie-react-native](https://github.com/airbnb/lottie-react-native)）<br/>
+
+3. 元素进场出场 （[react-native-animatable](https://github.com/oblador/react-native-animatable））<br/>
+
+4, 元素拖动及进出场 ([animated](https://github.com/animatedjs/animated)) <br/>
+
 
 ## 设备底层
 1. 获取设备信息([react-native-device-info](https://github.com/rebeccahughes/react-native-device-info))
