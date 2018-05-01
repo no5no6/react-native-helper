@@ -137,5 +137,5 @@
 
 8. app 推送通知 ([react-native-push-notification ](https://github.com/zo0r/react-native-push-notification))
 
-9. Touch Id ([react-native-touch-id](https://github.com/magicismight/react-native-root-toast)) <br/>
-<img src="https://raw.githubusercontent.com/magicismight/react-native-root-toast/master/Example/screen-shoots.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+9. Touch Id ([react-native-touch-id](https://github.com/naoufal/react-native-touch-id)) <br/>
+<img src="https://cloud.githubusercontent.com/assets/1627824/7975919/2c69a776-0a42-11e5-9773-3ea1c7dd79f3.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
