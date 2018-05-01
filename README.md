@@ -66,12 +66,18 @@
 14. 加载动画 ([react-native-spinkit](https://github.com/maxs15/react-native-spinkit)) <br/>
 <img src="http://i.imgur.com/AwJsakU.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-15. 视差 ([react-native-parallax-scroll-view] (https://github.com/i6mi6/react-native-parallax-scroll-view)) <br/>
+15. 视差 ([react-native-parallax-scroll-view](https://github.com/i6mi6/react-native-parallax-scroll-view)) <br/>
 <img src="https://raw.githubusercontent.com/i6mi6/react-native-parallax-scroll-view/master/demo.ios.0.17.2.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 16. 日历 ([react-native-datepicker](https://github.com/xgfe/react-native-datepicker)) <br/>
 <img src="http://xgfe.github.io/react-native-datepicker/img/react-native-datepicker-ios.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://xgfe.github.io/react-native-datepicker/img/react-native-datepicker-android.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+17. 列表 ([react-native-card-modal](https://github.com/ggomaeng/react-native-card-modal)) <br/>
+<img src="https://raw.githubusercontent.com/ggomaeng/react-native-card-modal/master/demo.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+18. 提示 ([react-native-root-toast](https://github.com/magicismight/react-native-root-toast)) <br/>
+<img src="https://raw.githubusercontent.com/magicismight/react-native-root-toast/master/Example/screen-shoots.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## 动画
@@ -87,7 +93,7 @@
 <img src="https://raw.githubusercontent.com/airbnb/lottie-react-native/master/docs/gifs/Example3.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/airbnb/lottie-react-native/blob/master/docs/gifs/Example4.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 
-3. 元素进场出场 （[react-native-animatable](https://github.com/oblador/react-native-animatable））<br/>
+3. 元素进场出场 ([react-native-animatable](https://github.com/oblador/react-native-animatable))<br/>
 <img src="https://cloud.githubusercontent.com/assets/378279/10590307/ef73b1ba-767d-11e5-8fb9-9779d3a53a50.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cloud.githubusercontent.com/assets/378279/10590304/ef4f09b4-767d-11e5-9a43-06e97e8ee2c1.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp
 <img src="https://cloud.githubusercontent.com/assets/378279/10590303/ef3e9598-767d-11e5-83bc-bd48d6017131.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -100,7 +106,10 @@
 <img src="https://cloud.githubusercontent.com/assets/378279/10590300/ef36dfe2-767d-11e5-932b-1cccce78087b.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp
 <img src="hhttps://cloud.githubusercontent.com/assets/378279/10590299/ef35a3ca-767d-11e5-94e0-441fd49b6444.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 
-4, 元素拖动及进出场 ([animated](https://github.com/animatedjs/animated)) <br/>
+4. 元素拖动及进出场 ([animated](https://github.com/animatedjs/animated)) <br/>
+
+5. 翻页动画 ([react-native-tinder-swipe-cards](https://github.com/meteor-factory/react-native-tinder-swipe-cards)) <br/>
+<img src="https://raw.githubusercontent.com/meteor-factory/react-native-tinder-swipe-cards/master/screenshots/swiper-cards.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## 设备底层
@@ -127,3 +136,6 @@
 <img src="https://s3.amazonaws.com/nrjio/interactive.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 8. app 推送通知 ([react-native-push-notification ](https://github.com/zo0r/react-native-push-notification))
+
+9. Touch Id ([react-native-touch-id](https://github.com/magicismight/react-native-root-toast)) <br/>
+<img src="https://raw.githubusercontent.com/magicismight/react-native-root-toast/master/Example/screen-shoots.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
