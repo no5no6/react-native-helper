@@ -3,13 +3,23 @@
 ## UI
 1. icon图标库（[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)） 。 <br/>
 
-## 组件
-1. 组件库（[NativeBase ](https://github.com/GeekyAnts/NativeBase)）。<br/>
+## 组件库
+1. [NativeBase](https://github.com/GeekyAnts/NativeBase)。<br/>
 ![Demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/iOS.gif)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/Android.gif)&nbsp;&nbsp;&nbsp;&nbsp;
 
-2. router处理及导航, 带 3D Touch ！！！（[react-native-navigation](https://github.com/wix/react-native-navigation)） 。<br/>
+2. [teaset](https://github.com/rilyu/teaset)<br/>
+<img src="https://raw.githubusercontent.com/rilyu/teaset/master/screenshots/00-Teaset1.png" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/rilyu/teaset/master/screenshots/00-Teaset2.png" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
+
+3. [react-native-elements](https://github.com/react-native-training/react-native-elements)<br/>
+<img src="https://user-images.githubusercontent.com/5962998/37248832-a7060286-24b1-11e8-94a8-847ab6ded4ec.png" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
+
+## 组件
+1. 路由及导航, 带 3D Touch ！！！（[react-native-navigation](https://github.com/wix/react-native-navigation)） <br/>
 <img src="https://github.com/wix/react-native/blob/master/src/videos/rnn-example-demo.gif?raw=true" width="240">&nbsp;&nbsp;&nbsp;&nbsp;
+
+2. 路由及导航([react-navigation](https://github.com/react-navigation/react-navigation))
 
 3. swiper（[react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel/blob/master/README.md)）  <br/>
 <img src="https://i.imgur.com/Fope3uj.gif" width=200 />&nbsp;&nbsp;&nbsp;&nbsp;
