@@ -97,6 +97,11 @@
 <img src="https://camo.githubusercontent.com/a2a53f24cb9e39c030cbaf519d7b3120e8ad5daf/687474703a2f2f692e696d6775722e636f6d2f68503366336f4f2e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/1e5164bd099b483be813ba0c8fd7dd2e86c25fb6/687474703a2f2f692e696d6775722e636f6d2f4c414f48624a412e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+## 布局
+1. 排列，动态计算 ([autoresponsive_react_native_sample](https://github.com/xudafeng/autoresponsive_react_native_sample)) <br/>
+<img src="https://raw.githubusercontent.com/xudafeng/autoresponsive_react_native_sample/master/screenshot/ios.png" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/xudafeng/autoresponsive_react_native_sample/master/screenshot/android.png" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## 动画
 1. 滚动、滑动动效 （[react-native-interactable](https://github.com/wix/react-native-interactable)） <br/>
