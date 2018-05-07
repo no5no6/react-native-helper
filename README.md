@@ -92,6 +92,11 @@
 18. 提示 ([react-native-root-toast](https://github.com/magicismight/react-native-root-toast)) <br/>
 <img src="https://raw.githubusercontent.com/magicismight/react-native-root-toast/master/Example/screen-shoots.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+19. swiper ([react-native-swiper](https://github.com/leecade/react-native-swiper)) <br/>
+<img src="https://camo.githubusercontent.com/67811c9b23719e308968ea425514edf85a0d36af/687474703a2f2f692e696d6775722e636f6d2f7a7273617a41472e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/a2a53f24cb9e39c030cbaf519d7b3120e8ad5daf/687474703a2f2f692e696d6775722e636f6d2f68503366336f4f2e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/1e5164bd099b483be813ba0c8fd7dd2e86c25fb6/687474703a2f2f692e696d6775722e636f6d2f4c414f48624a412e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## 动画
 1. 滚动、滑动动效 （[react-native-interactable](https://github.com/wix/react-native-interactable)） <br/>
