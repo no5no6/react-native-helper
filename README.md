@@ -79,23 +79,40 @@
 14. 加载动画 ([react-native-spinkit](https://github.com/maxs15/react-native-spinkit)) <br/>
 <img src="http://i.imgur.com/AwJsakU.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-15. 视差 ([react-native-parallax-scroll-view](https://github.com/i6mi6/react-native-parallax-scroll-view)) <br/>
-<img src="https://raw.githubusercontent.com/i6mi6/react-native-parallax-scroll-view/master/demo.ios.0.17.2.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-16. 日历 ([react-native-datepicker](https://github.com/xgfe/react-native-datepicker)) <br/>
+15. 日历 ([react-native-datepicker](https://github.com/xgfe/react-native-datepicker)) <br/>
 <img src="http://xgfe.github.io/react-native-datepicker/img/react-native-datepicker-ios.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://xgfe.github.io/react-native-datepicker/img/react-native-datepicker-android.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-17. 列表 ([react-native-card-modal](https://github.com/ggomaeng/react-native-card-modal)) <br/>
+16. 列表 ([react-native-card-modal](https://github.com/ggomaeng/react-native-card-modal)) <br/>
 <img src="https://raw.githubusercontent.com/ggomaeng/react-native-card-modal/master/demo.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-18. 提示 ([react-native-root-toast](https://github.com/magicismight/react-native-root-toast)) <br/>
+17. 提示 ([react-native-root-toast](https://github.com/magicismight/react-native-root-toast)) <br/>
 <img src="https://raw.githubusercontent.com/magicismight/react-native-root-toast/master/Example/screen-shoots.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-19. swiper ([react-native-swiper](https://github.com/leecade/react-native-swiper)) <br/>
+18. swiper ([react-native-swiper](https://github.com/leecade/react-native-swiper)) <br/>
 <img src="https://camo.githubusercontent.com/67811c9b23719e308968ea425514edf85a0d36af/687474703a2f2f692e696d6775722e636f6d2f7a7273617a41472e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/a2a53f24cb9e39c030cbaf519d7b3120e8ad5daf/687474703a2f2f692e696d6775722e636f6d2f68503366336f4f2e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/1e5164bd099b483be813ba0c8fd7dd2e86c25fb6/687474703a2f2f692e696d6775722e636f6d2f4c414f48624a412e6769663d33303078" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## 视差
+1. 纵向列表 ([react-native-parallax-view](https://github.com/lelandrichardson/react-native-parallax-view)) <br/>
+<img src="https://camo.githubusercontent.com/07df318dc85ff925e4043b9fd240315518733aa0/687474703a2f2f692e67697068792e636f6d2f785469546e65654362316e7061476f72686d2e676966" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+2. 纵向带头像列表 ([react-native-parallax-scroll-view](https://github.com/i6mi6/react-native-parallax-scroll-view)) <br/>
+<img src="https://raw.githubusercontent.com/i6mi6/react-native-parallax-scroll-view/master/demo.ios.0.17.2.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+3. 横向 ([react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro)) <br/>
+<img src="https://camo.githubusercontent.com/0070607c97ffa385a28618d4b40c6a913a5bfa67/687474703a2f2f692e67697068792e636f6d2f336f366f7a6a4c6f4f6e595458667a4a67512e676966" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/959bbf9452de3a4b2e5d34648eafd38e0037e800/687474703a2f2f692e67697068792e636f6d2f32364148776473316735486a58726434732e676966" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/bddefbd18909f75fb25259d24d3b09c53be1606f/687474703a2f2f692e67697068792e636f6d2f6c3356306b68793232615576695454614d2e676966" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+4. 纵向多种效果 ([react-native-parallax-scroll](https://github.com/monterosalondon/react-native-parallax-scroll)) <br/>
+<img src="https://raw.githubusercontent.com/monterosalondon/react-native-parallax-scroll/master/demo/ios-demo-1.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/monterosalondon/react-native-parallax-scroll/master/demo/demo-1.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+5. 图层纵向滚动 ([react-native-parallax](https://github.com/oblador/react-native-parallax)) <br/>
+<img src="https://cloud.githubusercontent.com/assets/378279/8894786/81b493f8-33c3-11e5-9a5a-8695642c6ee7.gif" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspzo
+
 
 ## 布局
 1. 排列，动态计算 ([autoresponsive_react_native_sample](https://github.com/xudafeng/autoresponsive_react_native_sample)) <br/>
